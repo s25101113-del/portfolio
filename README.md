@@ -3,8 +3,8 @@
 - 學號：25101113
 - 姓名：簡呈凱
 - 班級：資管大一
-- 作品網址：https://username.github.io/portfolio
-- GitHub Repo：https://github.com/username/portfolio
+- 作品網址：https://s25101113-del.github.io/portfolio
+- GitHub Repo：https://github.com/s25101113-del/portfolio
 
 ## 📌 專題說明
 （簡述你的作品集網站主題與特色）
